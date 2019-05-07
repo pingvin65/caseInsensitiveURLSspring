@@ -1,1 +1,1 @@
-# caseInsensitive URL Sspring
+# case insensitive URL Sspring
